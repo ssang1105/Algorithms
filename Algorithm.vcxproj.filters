@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\ACMICPC">
+      <UniqueIdentifier>{6401de5b-6958-4d6b-a705-98d06f9740c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\dovelet">
+      <UniqueIdentifier>{77cca864-7b34-4fbd-9179-9a83b765dc4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\x">
+      <UniqueIdentifier>{864dc04a-8c81-4719-bca1-f73addcc9bff}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2693.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="10039.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="3009.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="5086.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="2522.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="2523.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="10718.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="2557.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="10172.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="5338.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="5337.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="5339.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="10171_고양이.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="9653_스타워즈로고.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="2441.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="2444.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="1929_소수구하기.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="2605_줄 세우기.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="2583_영역구하기.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="rprime.cpp">
+      <Filter>Source Files\dovelet</Filter>
+    </ClCompile>
+    <ClCompile Include="4963_섬의개수.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="x_8913_문자열 뽑기.cpp">
+      <Filter>Source Files\x</Filter>
+    </ClCompile>
+    <ClCompile Include="x_1238_파티.cpp">
+      <Filter>Source Files\x</Filter>
+    </ClCompile>
+    <ClCompile Include="1238_파티.cpp">
+      <Filter>Source Files\x</Filter>
+    </ClCompile>
+    <ClCompile Include="8913_문자열뽑기.cpp">
+      <Filter>Source Files\x</Filter>
+    </ClCompile>
+    <ClCompile Include="4095_최대정사각형.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="9095_123더하기.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="1932_숫자삼각형.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="2577_숫자의개수.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="2563_색종이.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="2501_약수 구하기.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="1110_더하기사이클.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="1759_암호 만들기.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="1991_트리순회.cpp">
+      <Filter>Source Files\x</Filter>
+    </ClCompile>
+    <ClCompile Include="1252_이진수 덧셈.cpp">
+      <Filter>Source Files\x</Filter>
+    </ClCompile>
+    <ClCompile Include="2491_수열.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="x_10840_구간성분.cpp">
+      <Filter>Source Files\x</Filter>
+    </ClCompile>
+    <ClCompile Include="7567_그릇.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="x_2503_숫자야구.cpp">
+      <Filter>Source Files\x</Filter>
+    </ClCompile>
+    <ClCompile Include="1065_한수.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="10804_카드역배치.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="2504_괄호의값.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="x_2662_기업투자.cpp">
+      <Filter>Source Files\x</Filter>
+    </ClCompile>
+    <ClCompile Include="2558_10950__10951_10952.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="1520_내리막길.cpp">
+      <Filter>Source Files\x</Filter>
+    </ClCompile>
+    <ClCompile Include="2615_오목.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="2667_단지번호붙이기.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
