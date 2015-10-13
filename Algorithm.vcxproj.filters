@@ -22,6 +22,9 @@
     <Filter Include="Source Files\x">
       <UniqueIdentifier>{864dc04a-8c81-4719-bca1-f73addcc9bff}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\정보올림피아드">
+      <UniqueIdentifier>{6c3d1e12-81bf-4920-b91e-330966e536ab}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2693.cpp">
@@ -150,19 +153,79 @@
     <ClCompile Include="2504_괄호의값.cpp">
       <Filter>Source Files\ACMICPC</Filter>
     </ClCompile>
-    <ClCompile Include="x_2662_기업투자.cpp">
-      <Filter>Source Files\x</Filter>
-    </ClCompile>
     <ClCompile Include="2558_10950__10951_10952.cpp">
       <Filter>Source Files\ACMICPC</Filter>
-    </ClCompile>
-    <ClCompile Include="1520_내리막길.cpp">
-      <Filter>Source Files\x</Filter>
     </ClCompile>
     <ClCompile Include="2615_오목.cpp">
       <Filter>Source Files\ACMICPC</Filter>
     </ClCompile>
     <ClCompile Include="2667_단지번호붙이기.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="1520_내리막길.cpp">
+      <Filter>Source Files\정보올림피아드</Filter>
+    </ClCompile>
+    <ClCompile Include="10158_개미.cpp">
+      <Filter>Source Files\정보올림피아드</Filter>
+    </ClCompile>
+    <ClCompile Include="10158_개미(깔끔방법).cpp">
+      <Filter>Source Files\정보올림피아드</Filter>
+    </ClCompile>
+    <ClCompile Include="x_10802_369게임.cpp">
+      <Filter>Source Files\x</Filter>
+    </ClCompile>
+    <ClCompile Include="x_2662_기업투자.cpp">
+      <Filter>Source Files\x</Filter>
+    </ClCompile>
+    <ClCompile Include="x_2579_계단오르기.cpp">
+      <Filter>Source Files\x</Filter>
+    </ClCompile>
+    <ClCompile Include="x_2610_회의준비.cpp">
+      <Filter>Source Files\x</Filter>
+    </ClCompile>
+    <ClCompile Include="2599_수열.cpp">
+      <Filter>Source Files\정보올림피아드</Filter>
+    </ClCompile>
+    <ClCompile Include="3060_욕심쟁이돼지.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>Source Files\x</Filter>
+    </ClCompile>
+    <ClCompile Include="2178_미로 탐색.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="1697_숨바꼭질.cpp">
+      <Filter>Source Files\정보올림피아드</Filter>
+    </ClCompile>
+    <ClCompile Include="1916_최소비용구하기.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="2592_부등호.cpp">
+      <Filter>Source Files\정보올림피아드</Filter>
+    </ClCompile>
+    <ClCompile Include="x_2464_비밀번호.cpp">
+      <Filter>Source Files\x</Filter>
+    </ClCompile>
+    <ClCompile Include="9461_파도반수열.cpp">
+      <Filter>Source Files\정보올림피아드</Filter>
+    </ClCompile>
+    <ClCompile Include="2661_좋은수열.cpp">
+      <Filter>Source Files\정보올림피아드</Filter>
+    </ClCompile>
+    <ClCompile Include="x_moving_table.cpp">
+      <Filter>Source Files\dovelet</Filter>
+    </ClCompile>
+    <ClCompile Include="2750_수정렬하기.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="1963_소수경로.cpp">
+      <Filter>Source Files\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="10159_저울cpp.cpp">
+      <Filter>Source Files\정보올림피아드</Filter>
+    </ClCompile>
+    <ClCompile Include="2816_디지털티비.cpp">
       <Filter>Source Files\ACMICPC</Filter>
     </ClCompile>
   </ItemGroup>
