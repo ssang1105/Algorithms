@@ -1,13 +1,12 @@
 #include <iostream>
-#include <string>
 using namespace std;
 
 int main(void){
 
-	string A, B;
+	int A, B;
 	cin >> A >> B;
+	cout << A * (B - 1) + 1 << endl;
 	
 
-	
+
 }
-
